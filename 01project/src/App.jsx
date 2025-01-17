@@ -1,7 +1,7 @@
 import Dawg from './dawg'
 function App() {
   const username ="chai aur code";
-
+  // Evaluated expression {} only final outcome will show in {}braces
   return (
     <>
    <Dawg />
